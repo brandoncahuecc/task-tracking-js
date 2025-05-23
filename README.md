@@ -1,6 +1,8 @@
 ***
 # Task Tracking - `JavaScript`
 > Gestor de Tareas a través de linea de comandos.
+> Proyecto propuesto por Roadmap.sh
+> El enunciado puedes visualizarlo en: [Roadmap.sh](https://roadmap.sh/projects/task-tracker)
 
 ## Descripción general
 > Proyecto de simulación de consola de administración de tareas. Elaborado con `JavaScript` el cual gestiona un archivo JSon para persistir todas las tareas que se gestionarán.
